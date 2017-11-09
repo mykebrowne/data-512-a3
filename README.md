@@ -12,5 +12,9 @@ This aim of this research is to further this debate by revisiting data on opioid
 
 ### Data sources <br> 
 
+| Concept | Operational definition | Source |
+| --- | ---| --- |
+| Opioid prescription rate (at a year and state level) during 2006 to 2016 | Total number of retail opioid prescriptions dispensed in a given year and state per resident population | https://www.cdc.gov/drugoverdose/maps/rxstate2006.html
+https://www.cdc.gov/drugoverdose/maps/rxstate2007.html | 
 
 
