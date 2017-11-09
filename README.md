@@ -1,2 +1,16 @@
-# data-512-a3
-Final project
+# data-512-a3 <br> 
+# Final project plan <br> 
+
+## To what extent is the opioid crisis driven by over-prescription? <br> 
+
+### Background <br>
+If you Google ‘opioid crisis’, you are likely to find many articles that highlight the increase in deaths associated with opioid usage in the US over the past two decades.   According to the CDC1, drug overdose deaths nearly tripled during the period 1999-2014 which some commentators2 have ascribed to the concurrent increase in opioid prescription rate, which quadrupled from 1999 to 2010.   One explanation provided is that overprescription of opioid pain relievers is a determinant of fatal overdose and abuse3.  In particular, individuals who are prescribed opioids for periods of over 90 days are unlikely to discontinue using and may switch to obtaining them illicitly when they can no longer obtain them through legitimate means4.   These illicit sources are more likely to include heroin and fentanyl which have been implicated in the significant increase in opioid death rates during 2014-20155. <br> 
+
+The response to this crisis has varied.  Some states have enacted legislation designed to reduce opioid prescribing.  For example, Florida prohibited dispensing by prescribers in 2011 and subsequently experienced a 52% decline in oxycodone overdose death rate1.  The CDC advises local jurisdictions to target “high-prescribing areas for interventions such as...virtual physical therapy sessions with pain coping skills training...for chronic pain”2.  These approaches have, however, been criticized on the grounds that they penalize doctors for prescribing opioids to people who need them and for ignoring the wider socio-economic factors that contribute to drug addiction3. <br> 
+
+This aim of this research is to further this debate by revisiting data on opioid prescribing and opioid overdose deaths and overlaying economic data to explore whether the relationship between opioid prescribing and opioid overdose is as straightforward as some of the Google headlines would suggest. <br> 
+
+### Data sources <br> 
+
+
+
