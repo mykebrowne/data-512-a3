@@ -48,6 +48,6 @@ If poverty somehow effects the relationship between opioid prescription and over
 Between:  prescription and overdose rate;  partial correlation between prescription and overdose rate, controlling for poverty rate.    If the correlation between prescription and overdose rate is less strong when controlling for poverty rate, this would indicate that poverty has a role to play in influencing overdose rate.
 
 #### 4. Perform Poisson regression with offset <br> 
-Model the relationship between overdose rate, prescription rate and poverty rate.    More formally: <br> 
-log(E[# overdoses]) = log(population) + β0 + (β1 * prescription rate)  +  (β2* poverty rate)  + ( β3* prescription rate : poverty rate) <br> 
+Model the relationship between overdose rate, prescription rate and poverty rate.    More formally: <br> <br> 
+log(E[# overdoses]) = log(population) + β0 + (β1 * prescription rate)  +  (β2* poverty rate)  + ( β3* prescription rate : poverty rate) <br> <br> 
 If either the main effect of poverty,  β2, or the interaction effect,  β3, are significant this would also suggest that poverty influences overdose rate (independently) of prescription rate. <br> 
