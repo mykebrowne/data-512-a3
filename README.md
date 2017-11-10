@@ -15,6 +15,6 @@ This aim of this research is to further this debate by revisiting data on opioid
 | Concept | Operational definition | Source |
 | --- | ---| --- |
 | Opioid prescription rate (at a year and state level) during 2006 to 2016 | Total number of retail opioid prescriptions dispensed in a given year and state per resident population | https://www.cdc.gov/drugoverdose/maps/rxstate2006.html <br><br> https://www.cdc.gov/drugoverdose/maps/rxstate2007.html | 
-| Opioid overdose death rate (at a year and state level) | Total number of deaths due to:<br> ICD-10 underlying cause-of-death codes: X40-X44 (unintentional), X60-X64 (suicide), X85 (homicide), Y10-Y14 (undetermined intent). <br> <br>  And <br><br> ICD-10 multiple-cause-of-death codes:  T40.0 (Opium), T40.1 (Heroin), T40.2 (Other opioids), T40.3 (Methadone), T40.4 (Other synthetic narcotics), T40.6 (Other and unspecified narcotics).<br> In a given year and state per resident population. | Available at:  http://wonder.cdc.gov. | 
+| Opioid overdose death rate (at a year and state level) | Total number of deaths due to:<br> ICD-10 underlying cause-of-death codes: X40-X44 (unintentional), X60-X64 (suicide), X85 (homicide), Y10-Y14 (undetermined intent). <br> <br>  And <br><br> ICD-10 multiple-cause-of-death codes:  T40.0 (Opium), T40.1 (Heroin), T40.2 (Other opioids), T40.3 (Methadone), T40.4 (Other synthetic narcotics), T40.6 (Other and unspecified narcotics).<br><br> In a given year and state per resident population. | Available at:  http://wonder.cdc.gov. | 
 
 
