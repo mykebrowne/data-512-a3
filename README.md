@@ -19,4 +19,9 @@ This aim of this research is to further this debate by revisiting data on opioid
 | Poverty rate (at a year and state level) during 2006 to 2016  | Population below poverty level in a given year and state per resident population | American Community Survey.  Poverty Status In The Past 12 Months. 2005 to 2016.  Available at: <br> <br> https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml?refresh=t
 
 
+### Questions to be investigated 
 
+#### 1. What is the relationship between opioid prescription rate and opioid overdose rate? <br> 
+If overprescription of opioids is a determinant of fatal overdose (as has been suggested by existing research), one would expect to see this reflected in the strength of the relationship between the opioid prescription rate and opioid overdose rate, both cross-sectionally (in other words, at a single point in time across geographies) and longitudinally (over time across a single geography).  
+#### 2.  How does the relationship between opioid prescription rate and opioid overdose rate change given knowledge of the poverty rate?
+If poverty somehow effects the relationship between opioid prescription and overdose rate, this would be manifested in a number of ways.   First the partial correlation between prescription and overdose rate given the poverty rate would be different to the overall correlation between the prescription and overdose rate.  Equivalently, when overdose rate is regressed against prescription rate and poverty rate together, one would expect to see either a main effect of poverty rate or an interaction between prescription rate and poverty rate.  
